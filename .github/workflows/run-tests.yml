@@ -3,8 +3,8 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - session-1
-      - session-2
+      - session1
+      - session2
   pull_request:
     branches:
       - main
